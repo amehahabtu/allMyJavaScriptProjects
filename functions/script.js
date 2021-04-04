@@ -25,4 +25,4 @@ function remainder(numOne,numTwo)
     var remaindenum = numOne % numTwo;
     return remaindenum;
 }
-alert("The sum of two numbers= "+add(numOne,numTwo)+"\nThe difference between two numbers= "+subtract(numOne,numTwo));
+//alert("The sum of two numbers= "+add(numOne,numTwo)+"\nThe difference between two numbers= "+subtract(numOne,numTwo));
